@@ -1,0 +1,5 @@
+DB_NAME=estimation_tool_db
+DB_USER=admin
+DB_PASS=5hU$6EdRAs4gEvedav
+DB_SERVICE=postgres
+DB_PORT=5432
